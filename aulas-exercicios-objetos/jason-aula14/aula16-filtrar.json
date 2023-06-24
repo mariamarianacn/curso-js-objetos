@@ -1,0 +1,24 @@
+[
+    {
+        "nome": "bruno",
+        "idade": "32",
+        "telefone": ["6758493", "1234567"],
+        "endereco": {
+            "cep": "7654378",
+            "rua": "R. Doutor Machado",
+            "apartamento": true
+        }
+    },
+    {
+        "nome": "paula",
+        "idade":"57",
+        "telefone": "87654356",
+        "endereco": {
+            "cep": "876544",
+            "rua":"R. Doutor Freire",
+            "apartamento": true,
+            "complemento": "23"
+        }
+    }
+
+]
