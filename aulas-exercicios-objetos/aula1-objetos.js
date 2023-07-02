@@ -14,3 +14,5 @@ const propriedadesObjetos = {
 // objeto é aberto por chaves {}
 
 console.log(propriedadesObjetos)
+
+
